@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Nehith Muppala
 
 **Currently pursuing master in Design and test for Integrated Circuits at TU Chemnitz**
-
 **Bachelors in Electronics and Communication Engineering**  
 **Interested in VLSI Design, Circuit Design and Digital Electronics**  
 **Experienced in Cadence Virtuoso and RTL Design**
