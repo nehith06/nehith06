@@ -3,8 +3,8 @@
 
 **Bachelors in Electronics and Communication Engineering**  
 **Interested in VLSI Design, Circuit Design and Digital Electronics**  
-**Currently pursuing master in Design and test for Integrated Circuits at TU Chemnitz**
 **Experienced in Cadence Virtuoso and RTL Design**
+**Interested in VLSI Design, Circuit Design and Digital Electronics**
 
 ---
 
