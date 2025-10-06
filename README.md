@@ -29,8 +29,8 @@ I am pursuing my Master’s in Design and Test for Integrated Circuits at Techni
 
 ```
 Programming Languages:   Verilog,C ,Python
-EDA Tools:               Cadence Virtuoso, Xilinx Vivado, LTSpice
-Core Interests:          VLSI Design, Digital Electronics, Circuit Design
+EDA Tools:               Cadence Virtuoso,Cadence Assura, Xilinx Vivado, LTSpice
+Core Interests:          VLSI Design, Circuit Design ,Layout Design and Verification.
 ```
 
 ---
@@ -38,7 +38,7 @@ Core Interests:          VLSI Design, Digital Electronics, Circuit Design
 ## 📫 Contact
 
 - 📧 Email: nehithmuppala2000@gmail.com  
-- 🌍 Location: Puttur, India  
+- 🌍 Location: Chemnitz,germany 
 - 🔗 LinkedIn: [linkedin.com/in/nehith-muppala](#)
 
 ---
